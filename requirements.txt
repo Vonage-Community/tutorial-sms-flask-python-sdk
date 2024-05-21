@@ -15,7 +15,7 @@ pydantic==1.10.4
 PyJWT==2.6.0
 python-dotenv==0.21.1
 pytz==2022.7.1
-requests==2.28.2
+requests==2.32.2
 typing_extensions==4.4.0
 urllib3==1.26.14
 vonage==3.2.2
