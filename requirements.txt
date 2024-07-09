@@ -21,4 +21,4 @@ urllib3==1.26.14
 vonage==3.2.2
 Werkzeug==2.2.2
 wrapt==1.14.1
-zipp==3.12.0
+zipp==3.19.1
